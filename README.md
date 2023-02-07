@@ -1,6 +1,10 @@
 # DATS 6103 Endterm Project - On Time Delivery Prediction
 
 This repository encompasses the Master of Science in Data Science's DATS6103 subject's end-term project for Semester 1 in Fall 2022.
+The contributors for this project are - 
+  1- Ambar Pathak(Me)
+  2- Jiwoo Suh - https://github.com/jiwoosuh
+  3- Anne Lou - https://github.com/yunyu79/
 
 With the rise of e-commerce, people enjoy the convenience of that. For any e-commerce business to thrive, it needs to figure out what will help build a customer base and, in turn, profits. Among all the factors, the one that favors the growth of any e-commerce company is the timely delivery of products. According to an e-commerce survey conducted in 2015, 66% of customers preferred one retailer over another because of delivery services, which can come off as a potential loss for other businesses in the same domain.
 
